@@ -4,11 +4,11 @@ Solutions to tasks from Leetcode
 
 # List of Algorithms and Languages
 
-| #   | Description                            | Languages          | Link                                        |
-| --- | -------------------------------------- | ------------------ | ------------------------------------------- |
-| 4   | Median of Two Sorted Arrays            | JS                 |                                             |
-| 35  | Search Insert Position (Binary Search) | JS, Java, py3, C++ |                                             |
-| 189 | Rotate Array                           | JS, Java, py3, C++ | https://leetcode.com/problems/rotate-array/ |
-| 278 | First Bad Version (Binary Search)      | JS, Java, py3, C++ |                                             |
-| 704 | Binary Search                          | JS, Java, py3      |                                             |
-| 977 | Squares of a Sorted Array              | JS, Java, py3, C++ |                                             |
+| #   | Description                            | Languages          | Link                                                       |
+| --- | -------------------------------------- | ------------------ | ---------------------------------------------------------- |
+| 4   | Median of Two Sorted Arrays            | JS                 | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+| 35  | Search Insert Position (Binary Search) | JS, Java, py3, C++ | https://leetcode.com/problems/search-insert-position/      |
+| 189 | Rotate Array                           | JS, Java, py3, C++ | https://leetcode.com/problems/rotate-array/                |
+| 278 | First Bad Version (Binary Search)      | JS, Java, py3, C++ | https://leetcode.com/problems/first-bad-version/           |
+| 704 | Binary Search                          | JS, Java, py3      | https://leetcode.com/problems/binary-search/               |
+| 977 | Squares of a Sorted Array              | JS, Java, py3, C++ | https://leetcode.com/problems/squares-of-a-sorted-array/   |
