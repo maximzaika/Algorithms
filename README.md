@@ -6,7 +6,7 @@ Solutions to tasks from Leetcode
 
 | #   | Description                             | Languages          | Link                                                            |
 | --- | --------------------------------------- | ------------------ | --------------------------------------------------------------- |
-| 1   | Two Sum (hashmap)                       | JS, Java, py3, C++ | https://leetcode.com/problems/two-sum/submissions/              |
+| 1   | Two Sum (hashmap)                       | JS, Java, py3, C++ | https://leetcode.com/problems/two-sum/                          |
 | 4   | Median of Two Sorted Arrays             | JS                 | https://leetcode.com/problems/median-of-two-sorted-arrays/      |
 | 35  | Search Insert Position (Binary Search)  | JS, Java, py3, C++ | https://leetcode.com/problems/search-insert-position/           |
 | 167 | 167. Two Sum II - Input Array Is Sorted | JS, Java, py3, C++ | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
