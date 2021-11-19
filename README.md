@@ -13,5 +13,6 @@ Solutions to tasks from Leetcode
 | 278 | First Bad Version (Binary Search)       | JS, Java, py3, C++ | https://leetcode.com/problems/first-bad-version/                |
 | 283 | Move Zeroes                             | JS, Java, py3, C++ | https://leetcode.com/problems/move-zeroes/                      |
 | 344 | Reverse String                          | JS, Java, py3, C++ | https://leetcode.com/problems/reverse-string/                   |
+| 577 | Reverse Words in a String III           | JS                 | https://leetcode.com/problems/reverse-words-in-a-string-iii/    |
 | 704 | Binary Search                           | JS, Java, py3      | https://leetcode.com/problems/binary-search/                    |
 | 977 | Squares of a Sorted Array               | JS, Java, py3, C++ | https://leetcode.com/problems/squares-of-a-sorted-array/        |
