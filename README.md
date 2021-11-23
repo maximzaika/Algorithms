@@ -8,6 +8,7 @@ Solutions to tasks from Leetcode
 | --- | --------------------------------------- | ------------------ | --------------------------------------------------------------- |
 | 1   | Two Sum (hashmap)                       | JS, Java, py3, C++ | https://leetcode.com/problems/two-sum/                          |
 | 4   | Median of Two Sorted Arrays             | JS                 | https://leetcode.com/problems/median-of-two-sorted-arrays/      |
+| 19  | Remove Nth Node From End of List        | JS, Java, py3, C++ | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ |
 | 35  | Search Insert Position (Binary Search)  | JS, Java, py3, C++ | https://leetcode.com/problems/search-insert-position/           |
 | 167 | 167. Two Sum II - Input Array Is Sorted | JS, Java, py3, C++ | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
 | 189 | Rotate Array                            | JS, Java, py3, C++ | https://leetcode.com/problems/rotate-array/                     |
