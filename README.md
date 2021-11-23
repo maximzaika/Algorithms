@@ -17,4 +17,5 @@ Solutions to tasks from Leetcode
 | 461 | Hamming Distance                        | JS, Java, py3, C++ | https://leetcode.com/problems/hamming-distance/                 |
 | 577 | Reverse Words in a String III           | JS, py3            | https://leetcode.com/problems/reverse-words-in-a-string-iii/    |
 | 704 | Binary Search                           | JS, Java, py3      | https://leetcode.com/problems/binary-search/                    |
+| 876 | Middle of the Linked List               | JS, Java, py3, C++ | https://leetcode.com/problems/middle-of-the-linked-list/        |
 | 977 | Squares of a Sorted Array               | JS, Java, py3, C++ | https://leetcode.com/problems/squares-of-a-sorted-array/        |
