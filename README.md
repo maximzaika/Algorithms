@@ -17,6 +17,7 @@ Solutions to tasks from Leetcode
 | 283  | Move Zeroes                                    | JS, Java, py3, C++ | https://leetcode.com/problems/move-zeroes/                                    |
 | 344  | Reverse String                                 | JS, Java, py3, C++ | https://leetcode.com/problems/reverse-string/                                 |
 | 461  | Hamming Distance                               | JS, Java, py3, C++ | https://leetcode.com/problems/hamming-distance/                               |
+| 567  | Permutation in String                          | JS                 | https://leetcode.com/problems/permutation-in-string/                          |
 | 577  | Reverse Words in a String III                  | JS, py3            | https://leetcode.com/problems/reverse-words-in-a-string-iii/                  |
 | 704  | Binary Search                                  | JS, Java, py3      | https://leetcode.com/problems/binary-search/                                  |
 | 876  | Middle of the Linked List                      | JS, Java, py3, C++ | https://leetcode.com/problems/middle-of-the-linked-list/                      |
