@@ -1,8 +1,8 @@
-# Algorithms
+# Coding Exercises Based on Algorithms
 
 Solutions to tasks from Leetcode
 
-# List of Algorithms and Languages
+# List
 
 | #    | Description                                    | Languages          | Link                                                                          |
 | ---- | ---------------------------------------------- | ------------------ | ----------------------------------------------------------------------------- |
