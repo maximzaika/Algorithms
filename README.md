@@ -19,6 +19,7 @@ Solutions to tasks from Leetcode
 | 461  | Hamming Distance                               | JS, Java, py3, C++ | https://leetcode.com/problems/hamming-distance/                               |
 | 567  | Permutation in String                          | JS                 | https://leetcode.com/problems/permutation-in-string/                          |
 | 577  | Reverse Words in a String III                  | JS, py3            | https://leetcode.com/problems/reverse-words-in-a-string-iii/                  |
+| 695  | Max Area of Island (Depth-First Search)        | JS, Java, py3      | https://leetcode.com/problems/max-area-of-island/                             |
 | 704  | Binary Search                                  | JS, Java, py3      | https://leetcode.com/problems/binary-search/                                  |
 | 733  | Flood Fill (Depth-First Search)                | JS, Java           | https://leetcode.com/problems/flood-fill/                                     |
 | 876  | Middle of the Linked List                      | JS, Java, py3, C++ | https://leetcode.com/problems/middle-of-the-linked-list/                      |
