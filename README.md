@@ -10,6 +10,7 @@ Solutions to tasks from Leetcode
 | 3    | Longest Substring Without Repeating Characters                   | JS, Java, py3, C++ | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
 | 4    | Median of Two Sorted Arrays                                      | JS                 | https://leetcode.com/problems/median-of-two-sorted-arrays/                    |
 | 19   | Remove Nth Node From End of List                                 | JS, Java, py3, C++ | https://leetcode.com/problems/remove-nth-node-from-end-of-list/               |
+| 21   | Merge Two Sorted Lists (Recursion/Backtracking)                  | JS, Java, py3      | https://leetcode.com/problems/merge-two-sorted-lists/                         |
 | 35   | Search Insert Position (Binary Search)                           | JS, Java, py3, C++ | https://leetcode.com/problems/search-insert-position/                         |
 | 116  | Populating Next Right Pointers in Each Node (Depth-First Search) | JS, Java, py3      | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/    |
 | 167  | 167. Two Sum II - Input Array Is Sorted                          | JS, Java, py3, C++ | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/               |
