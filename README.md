@@ -15,6 +15,7 @@ Solutions to tasks from Leetcode
 | 116  | Populating Next Right Pointers in Each Node (Depth-First Search) | JS, Java, py3      | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/    |
 | 167  | 167. Two Sum II - Input Array Is Sorted                          | JS, Java, py3, C++ | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/               |
 | 189  | Rotate Array                                                     | JS, Java, py3, C++ | https://leetcode.com/problems/rotate-array/                                   |
+| 206  | Reverse Linked List                                              | JS, Java, py3, C++ | https://leetcode.com/problems/reverse-linked-list/                            |
 | 278  | First Bad Version (Binary Search)                                | JS, Java, py3, C++ | https://leetcode.com/problems/first-bad-version/                              |
 | 283  | Move Zeroes                                                      | JS, Java, py3, C++ | https://leetcode.com/problems/move-zeroes/                                    |
 | 344  | Reverse String                                                   | JS, Java, py3, C++ | https://leetcode.com/problems/reverse-string/                                 |
